@@ -70,7 +70,3 @@ The expected output is the accuracy of the SMS spam classification model.
 - Tokenize and prepare the data for training.
 - Fine-tune the DistilBERT model using Hugging Face's Trainer API.
 - Log metrics and results to MLflow and wrap the model for direct spam classification.
-
-## Support
-
-For any additional information or support, please raise an issue in the repository or contact the contributors.
